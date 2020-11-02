@@ -73,7 +73,7 @@ class Karyawan extends Data {
     }
 }
 
-public class Hitung_Gaji {
+public class Gaji_Pegawai {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
